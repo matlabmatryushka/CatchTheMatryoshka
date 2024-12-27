@@ -15,12 +15,9 @@ Catch them all to unlock a surprise final message 🎉 – and a sprinkle of con
 ✨ Open the game. <br/>
 🎯 Click on each floating matryoshka to make her fade away. <br/>
 🎉 Bask in the glory of your accomplishment as confetti rains down! <br/>
+
 Choose to play again or exit, however you like! 👑 <br/>
 
-## 🎨 Why You'll Love It
-Gradient heaven 🌈: <br/>
-The background is a dreamy gradient of soft blues to keep your vibes chill. 🌸
-Full-screen fun 🌟: <br/>
-Immerse yourself in this doll-catching fantasy.
-Simple yet satisfying 💅: <br/>
-No levels, no stress – just cute vibes and good times. 💖
+## Gradient heaven and full-screen fun 🌈 <br/>
+The background is a dreamy gradient of soft blues to keep your vibes chill. 🌸 <br/>
+Immerse yourself in this doll-catching game: no levels, no stress – just cute vibes and good times. 💖
