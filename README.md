@@ -2,7 +2,8 @@
 
 DISCLAIMER: This game was made with love and a sprinkle of ✨ magic ✨ by a girl who loves coding cute things! 💻🌸
 
-💕 Say hello to Catch The Matryoshka – a simple, but adorable game where little matryoshkas (Russian dolls) float around your screen, waiting to be caught!
+💕 Say hello to Catch The Matryoshka – a simple, but adorable game where little matryoshkas (Russian dolls) float around your screen, waiting to be caught! <br/>
+Contributions are welcome! **Feel free to fork this repository, make changes, and submit a pull request. Let's make this game even more fun together!** 💖 <br/>
 
 ## 🌟 How It Works
 Click, catch, and watch them fade away! 🐣 <br/>
